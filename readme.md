@@ -1,4 +1,4 @@
-# Courses App - Solution Code
+# Courses Android Compose Basic - Solution Code
 
 ---
 
